@@ -1,6 +1,4 @@
 
 This project is a starting point for a Flutter application.
 
-![Screenshot-uas](https://github.com/mhdfahrurozi/029_uaspmobile/assets/107231096/ff2b5289-1d0b-44c5-b50a-351696ad9f27)
-
-
+![Uas-Flutter](https://github.com/mhdfahrurozi/029_uaspmobile/assets/107231096/a70a54dc-31f1-474b-92eb-54b61ae9f3b7)
